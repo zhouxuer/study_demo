@@ -1,0 +1,6 @@
+// 配置babelre预设文件
+// {
+//   "presets": [
+//     "env","react"
+//   ]
+// }

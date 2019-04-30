@@ -1,6 +1,16 @@
 body {
-  background-color: #ccc;
+  background: url(../images/youc.gif) right top repeat-y;
 }
 #root {
   color: red;
+  transform: rotate(45deg);
+}
+.a {
+  width: 100px;
+}
+.b {
+  color: #000;
+}
+.c {
+  color: #000;
 }
